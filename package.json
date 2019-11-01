@@ -22,31 +22,31 @@
   "_shasum": "b6869a5223402cb0167752e5ff1f7e22905b5dc2",
   "_spec": "coders.db",
   "_where": "/home/ubuntu/workspace",
-  "author": "TrueXPixels",
+  "author": "YusufOyunda684",
   "bugs": {
-    "url": "https://github.com/TrueXPixels/coders.db/issues"
+    "url": "https://github.com/YusufOyunda684/coders.db/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
-    "better-sqlite3": "^4.1.0",
-    "express": "^4.16.3",
+    "better-sqlite3": "^4.2.0",
+    "express": "^4.17.1",
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
     "lodash.sortby": "^4.7.0",
-    "socket.io": "^2.1.0"
+    "socket.io": "^2.3.0"
   },
   "deprecated": false,
   "description": "An easy, non locking, persistent sqlite3 database for storing any type of data. No setup required, only takes a few lines to set & fetch objects.",
-  "homepage": "https://github.com/TrueXPixels/quick.db#readme",
+  "homepage": "https://github.com/YusufOyunda684/coders.db#readme",
   "keywords": [
     "coders-code.db"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "quick.db",
+  "name": "coders.db",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TrueXPixels/quick.db.git"
+    "url": "git+https://github.com/YusufOyunda684/coders.db.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
