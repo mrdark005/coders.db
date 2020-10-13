@@ -1,6 +1,6 @@
 {
   "name": "coders.db",
-  "version": "7.3.9",
+  "version": "7.4.1",
   "description": "A better sqlite3 system that is easy to install and easy to use, easy to adjust, non-locking, permanent. Made in coders code (https://discord.gg/qRca4za).",
   "main": "index.js",
   "dependencies": {
