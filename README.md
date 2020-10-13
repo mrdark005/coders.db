@@ -12,8 +12,8 @@ const cdb = require('coders.db');
 
 
 // Veritabanındaki bir nesneyi ayarlama:
-cdb.set('Kullanıcıbilgisi', { zorluk: 'Easy' })
-// -> { difficulty: 'Easy' }
+cdb.set('Kullanıcıbilgisi', { zorluk: 'kolay' })
+// -> { zorluk: 'kolay' }
 
 
 // Bir nesneyi bir nesnede bir diziye (henüz mevcut olmayan) iterek:

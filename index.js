@@ -1,1 +1,1 @@
-module.exports = require('./src/queue.js');
+module.exports = require("./yükleyici/klasör.js");

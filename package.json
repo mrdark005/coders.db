@@ -1,61 +1,36 @@
 {
-  "_from": "coders.db",
-  "_inBundle": false,
-  "_integrity": "sha512-Igt1MA/Nhm9QUIximuigIFfKOJNVkXxQsu7a1JRS5yFOQtBm+JJdcqgoDQcUHJkA5F7kwiLTeVx6MxPoKjLjOg==",
-  "_location": "/coders.db",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "coders.db",
-    "name": "coders.db",
-    "escapedName": "coders.db",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/coders.db/-/coders.db-2.0.13.tgz",
-  "_shasum": "b6869a5223402cb0167752e5ff1f7e22905b5dc2",
-  "_spec": "coders.db",
-  "_where": "/home/ubuntu/workspace",
-  "author": "YusufOyunda684",
-  "bugs": {
-    "url": "https://github.com/YusufOyunda684/coders.db/issues"
-  },
-  "bundleDependencies": false,
+  "name": "coders.db",
+  "version": "7.3.9",
+  "description": "A better sqlite3 system that is easy to install and easy to use, easy to adjust, non-locking, permanent. Made in coders code (https://discord.gg/qRca4za).",
+  "main": "index.js",
   "dependencies": {
-    "better-sqlite3": "^4.2.0",
-    "express": "^4.17.1",
+    "better-sqlite3": "^7.1.0",
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
-    "lodash.sortby": "^4.7.0",
-    "socket.io": "^2.3.0"
+    "lodash.unset": "^4.5.2",
+    "lodash.sortby": "^4.7.0"
   },
-  "deprecated": false,
-  "description": "An easy, non locking, persistent sqlite3 database for storing any type of data. No setup required, only takes a few lines to set & fetch objects.",
-  "homepage": "https://github.com/YusufOyunda684/coders.db#readme",
-  "keywords": [
-    "coders-code.db"
-  ],
-  "license": "MIT",
-  "main": "index.js",
-  "name": "coders.db",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node baslat/test.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YusufOyunda684/coders.db.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "version": "0.1.0",
-  "directories": {
-    "doc": "docs",
-    "example": "examples"
-  },
-  "devDependencies": {}
+  "keywords": [
+    "depolanması",
+    "değerleri",
+    "kolay",
+    "sqlite",
+    "sqlite3",
+    "db",
+    "discord.js",
+    "coders code"
+  ],
+  "author": "YusufOyunda684",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YusufOyunda684/coders.db/issues"
+  }
 }
